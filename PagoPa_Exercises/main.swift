@@ -17,8 +17,8 @@ let input4: [String] = ["abc","deef","hi", "mnmn", "pippo"] // 3
 let input5: [String] = ["abc","deef","hi", "mnmn", "pippo", "che mal di schiena"] // 4
 
 
-var myArray = [[1,2,[["a"]],[4]]] as [Any]
-var myArray1 = [[1,2,[[3]],[4]]] as [Any]
+let myArray = [[1,2,[["a"]],[4]]] as [Any]
+let myArray1 = [[1,2,[[3]],[4]]] as [Any]
 
 
 print(exerciseOne.calculateDuplicateIn(sourceArray:input3))
