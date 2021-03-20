@@ -63,7 +63,7 @@
 		D7155D652600A835009B271F = {
 			isa = PBXGroup;
 			children = (
-				D7155D702600A836009B271F /* PagoPa_Exercise1 */,
+				D7155D702600A836009B271F /* PagoPa_Exercises */,
 				D7155D8A2600C683009B271F /* PapoPaUnitTest */,
 				D7155D6F2600A835009B271F /* Products */,
 			);
@@ -78,7 +78,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D7155D702600A836009B271F /* PagoPa_Exercise1 */ = {
+		D7155D702600A836009B271F /* PagoPa_Exercises */ = {
 			isa = PBXGroup;
 			children = (
 				D7155D712600A836009B271F /* main.swift */,
@@ -86,7 +86,7 @@
 				D7155D802600C59F009B271F /* ExerciseError.swift */,
 				D7155D9E2600F196009B271F /* ExcerciseTwo.swift */,
 			);
-			path = PagoPa_Exercise1;
+			path = PagoPa_Exercises;
 			sourceTree = "<group>";
 		};
 		D7155D8A2600C683009B271F /* PapoPaUnitTest */ = {
